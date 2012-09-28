@@ -10,8 +10,8 @@
   "main": "./lib/c2dm.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/SpeCT/node-c2dm.git",
-    "web" : "http://github.com/SpeCT/node-c2dm"
+    "url": "http://github.com/georgeye/node-c2dm.git",
+    "web" : "http://github.com/georgeye/node-c2dm"
   },
   "engines": { "node": ">= 0.2.0" },
   "dependencies": {
